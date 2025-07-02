@@ -1,0 +1,23 @@
+Copyright (c) 2024 Shiva Aryal
+
+Permission is granted to use, modify, and run this software, including for personal or internal business purposes, under the following conditions:
+
+1. **No Redistribution:**  
+   You may NOT publish, upload, or share this software or any modified version of this software on any public repository, website, marketplace, or app store, except by sharing the official GitHub repository link (https://github.com/ShivaArya1/youtube_video_downloader).
+
+2. **No Commercial Exploitation:**  
+   You may NOT sell, license, or offer this software or any modified version of this software as a paid product or service, or use it as part of any commercial offering, without express written permission from the author (Shiva Aryal).
+
+3. **Internal Use Only:**  
+   Companies and organizations may use this software internally for their operations, but may NOT resell, distribute, or use it as part of any paid service or product.
+
+4. **No Publishing of Modified Versions:**  
+   You may NOT publish modified versions of this software anywhere except by submitting them as contributions (pull requests) to the official repository.
+
+5. **Attribution Required:**  
+   Any use or modification of this software must retain this copyright notice and attribution to Shiva Aryal.
+
+6. **No Warranty:**  
+   This software is provided "AS IS", without warranty of any kind.
+
+By using this software, you agree to these terms.

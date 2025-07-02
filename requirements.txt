@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+yt_dlp>=2023.3.4
+requests>=2.20.0
+Pillow>=8.0.0
