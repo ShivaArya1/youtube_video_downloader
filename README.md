@@ -10,6 +10,7 @@ A cross-platform desktop application to download YouTube videos with a simple Py
 - Automatic download of ffmpeg if not present
 - Works on Windows and macOS
 - Built with: PyQt5, yt-dlp, requests, Pillow
+- Note: This application has only been tested on Windows. Mac users may need to make additional adjustments.
 
 ---
 
@@ -71,6 +72,7 @@ python main.py
 
 - **ffmpeg** will be downloaded automatically on first run (no setup needed).
 - If you get a missing module error, make sure your virtual environment is active and dependencies installed.
+- This application has only been tested on Windows. Mac users may need to make additional adjustments.
 - You can also run `python gui.py` for GUI testing.
 
 ---
