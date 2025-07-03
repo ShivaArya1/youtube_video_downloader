@@ -18,14 +18,14 @@ A cross-platform desktop application to download YouTube videos with a simple Py
 
 Here are some screenshots of the application:
 
-![ss-1](images/ss-1.png)
-![ss-2](images/ss-2.png)
-![ss-3](images/ss-3.png)
-![ss-4](images/ss-4.png)
-![ss-5](images/ss-5.png)
-![ss-6](images/ss-6.png)
-![ss-7](images/ss-7.png)
-![ss-8](images/ss-8.png)
+![ss-1](images/SS-1.png)
+![ss-2](images/SS-2.png)
+![ss-3](images/SS-3.png)
+![ss-4](images/SS-4.png)
+![ss-5](images/SS-5.png)
+![ss-6](images/SS-6.png)
+![ss-7](images/SS-7.png)
+![ss-8](images/SS-8.png)
 
 ## Getting Started
 
