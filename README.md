@@ -1,6 +1,10 @@
 # YouTube Video Downloader
 
-A cross-platform desktop application to download YouTube videos with a simple PyQt5 GUI, powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp).
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ShivaArya1/youtube_video_downloader)
+
+A cross-platform desktop application to download YouTube videos with a simple PyQt5 GUI, powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp)._
+
+**This project is open-source, released under a custom license. Please see [LICENSE.txt](LICENSE.txt) for details. Contributions are welcome!**
 
 ---
 
