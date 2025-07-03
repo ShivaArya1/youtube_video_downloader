@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="youtube_video_downloader",
     version="1.0.0",
-    description="A PyQt5 GUI YouTube video downloader using yt_dlp.",
+    description="Open-source YouTube downloader (PyQt5 GUI, yt-dlp, custom license)",
     long_description=open("README.md", "r", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     author="Shiva Aryal",
